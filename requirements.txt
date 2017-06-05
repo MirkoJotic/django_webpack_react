@@ -1,0 +1,10 @@
+appdirs==1.4.3
+Django==1.11
+django-cors-headers==2.1.0
+django-webpack-loader==0.5.0
+krbcontext==0.3.3
+packaging==16.8
+pyparsing==2.2.0
+pytz==2017.2
+simplejson==3.10.0
+six==1.10.0
